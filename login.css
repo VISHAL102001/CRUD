@@ -1,0 +1,17 @@
+body{
+   
+    background-image: url("../srec.jpg");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login_container{
+    padding:5% 3%;
+    width:30%;
+    margin:8%;
+    background-color: white;
+}
+.input1, .input2{
+    width:100%;
+    margin-top:2%;
+}
